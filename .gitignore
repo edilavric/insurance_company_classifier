@@ -1,0 +1,14 @@
+# .gitignore
+*.csv
+*.png
+*.pyc
+__pycache__/
+.env
+venv/
+*.log
+.DS_Store
+detailed_classification_results.csv
+ml_insurance_challenge_classified.csv
+manual_review_cases.csv
+validation_sample_for_review.csv
+validation_sample_reviewed_complete.csv
